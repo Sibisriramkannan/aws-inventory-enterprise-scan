@@ -1,0 +1,4 @@
+output_file: aws_inventory.xlsx
+workers: 8
+include_cloudtrail_usage: true
+cloudtrail_days: 90
